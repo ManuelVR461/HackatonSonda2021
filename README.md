@@ -75,3 +75,52 @@ Detectamos las columnas categóricas para su posterior tratamiento.
 
 ![image](https://user-images.githubusercontent.com/40529168/139965904-0da229d2-e6a0-4809-af2e-8a7827686400.png)
 
+![image](https://user-images.githubusercontent.com/40529168/139966002-cfb04c9c-aca0-4a26-af8d-bf04e7494bcc.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966020-be222f6b-24d8-4dc3-a52c-1ef774a80ed3.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966027-2fc98306-a20d-4765-ac32-9c062239e74a.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966035-f7958e61-d893-4a6c-afea-ac702aea3f80.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966128-d7adc06a-5d06-4a8b-a0dd-32a994799ebd.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966153-961bdaaa-8a3d-45b6-b728-f575b62276fc.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966166-aa186ff7-dc13-4f02-9b2f-903b8ca5c7c0.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966186-f2f622c4-be4c-4c29-9399-ee1bd44e0e92.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966200-d76ca2da-a8bb-4859-abf1-d3ef236047f1.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966238-ed390cd2-f685-4684-b128-05e732019942.png)
+
+Como se aprecia en el gráfico de torta, los datos indican que está balanceado, ya que no se visualiza una inclinación a alguna de las alternativas, con una proporción muy similar entre Fugados y No Fugados lo que nos permitirá entrenar el modelo de manera eficaz.
+
+![image](https://user-images.githubusercontent.com/40529168/139966295-e3563ecc-543f-4229-b747-34dd8fe8f930.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966339-978d8a5d-68d4-45a6-b8f9-64d22dc940bf.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966354-82b9cf8f-5f2f-485a-b96b-b0d0688c137f.png)
+
+Buscamos inconsistencias para la variable Edad.
+
+![image](https://user-images.githubusercontent.com/40529168/139966393-bfacd1a6-c010-46a5-bce7-a5ca15b78e55.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966408-06f80e79-337c-4af0-9075-3f645c2351db.png)
+
+Dados los resultados anteriores, se encontraron registros que podrían tener algún error de transcripción en la edad, por lo que procedemos a calcular la moda de la variable y actualizar dichos registros con el resultado obtenido.
+
+![image](https://user-images.githubusercontent.com/40529168/139966443-d4717ff2-4c73-4105-afbe-02f7c00736a7.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966457-e77e74ae-1aa8-441f-9711-c2277119fbdb.png)
+
+A continuación se realiza el análisis de las variables con el test de Kolmogorov-Smirnof de manera de revisar la distribución de las variables.
+
+![image](https://user-images.githubusercontent.com/40529168/139966473-47639e7a-840a-4eaf-b017-908691ba8b64.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966899-4da83bdb-ce8e-4f16-b7f9-a356deffbd6d.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139966943-e86b6433-5644-40e2-81cb-3156a576fbd3.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139967018-38dbdd1f-d37f-4ae0-ba5d-4daa42f8c704.png)
