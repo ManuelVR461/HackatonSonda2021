@@ -27,4 +27,23 @@ La base de datos en estudio está representada de la siguiente manera:
 |Variable|Descripción|Tipo de dato|
 |--------|------------------|-------------|
 |ID|Identificador del cliente|Entero|
+|Genero	|Genero del cliente	|Objeto|
+|Renta	|Resta en pesos	|Entero|
+|Edad	|Edad en años	|Flotante|
+|NIV_Educ	|Nivel educacional	|Objeto|
+|E_Civil	|Estado civil	|Objeto|
+|COD_Ofi	|Código de oficina	|Entero|
+|COD_Com	|Código de la comuna	|Objeto|
+|Ciudad	|Ciudad de la oficina	|Objeto|
+|D_Marzo	|Deuda de Marzo	|Entero|
+|D_Abril	|Deuda de Abril	|Entero|
+|D_Mayo	|Deuda de Mayo	|Entero|
+|D_Junio	|Deuda de Junio	|Entero|
+|D_Julio	|Deuda de Julio	|Entero|
+|D_Agosto	|Deuda de Agosto	|Entero|
+|D_Setptiembre	|Deuda de Septiembre	|Entero|
+|M_Moroso	|Meses en mora	|Entero|
+|Monto	|Monto preaprobado	|Entero|
+|Seguro	|Seguro de desgravamen	|Objeto|
+|Fuga	|Variable objetivo	|Objeto|
 
