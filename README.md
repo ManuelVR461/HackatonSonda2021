@@ -124,3 +124,8 @@ A continuación se realiza el análisis de las variables con el test de Kolmogor
 ![image](https://user-images.githubusercontent.com/40529168/139966943-e86b6433-5644-40e2-81cb-3156a576fbd3.png)
 
 ![image](https://user-images.githubusercontent.com/40529168/139967018-38dbdd1f-d37f-4ae0-ba5d-4daa42f8c704.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139967122-0a9c5940-e1f6-4bb6-880c-125b575b9121.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139967195-2194cae1-6b8e-4caf-b0bc-3e70f6fa7443.png)
+
