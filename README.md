@@ -47,3 +47,22 @@ La base de datos en estudio está representada de la siguiente manera:
 |Seguro	|Seguro de desgravamen	|Objeto|
 |Fuga	|Variable objetivo	|Objeto|
 
+La muestra otorgada para la realización de este desafío es de 2294 registros, asociados tanto a clientes actuales como a aquellos que ya se fugaron de la entidad financiera.
+
+### SELECCIÓN, PREPROCESAMIENTO Y TRANSFORMACIÓN DE DATOS
+
+Como primer paso en nuestro proceso realizamos la importación de las librerías y extensiones de Python que nos ayudarán en el manejo de vectores y matrices multidimensionales, y la manipulación, el análisis y la visualización de datos.
+
+![image](https://user-images.githubusercontent.com/40529168/139965447-0aec8ea7-a9cd-42e0-a776-af7475f140e1.png)
+
+Luego exportamos la base de datos de entrenamiento.
+
+![image](https://user-images.githubusercontent.com/40529168/139965481-83011780-81dc-458b-a81d-11c1936a47aa.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139965499-ccab21d5-61e4-4a22-a455-014f500388a3.png)
+
+Eliminamos las variables innecesarias y evaluamos los tipos de variables con las que nos quedaremos.
+
+![image](https://user-images.githubusercontent.com/40529168/139965526-ccbe53d1-d5df-4f1d-ba1f-2ef77983dcce.png)
+
+
