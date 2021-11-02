@@ -2,32 +2,24 @@
 
 ### 3OMEGA
 
-
-
 # INTEGRANTES
 - DANIEL VERDUGO
 - MANUEL RAMIREZ
 - RAFAEL ALVAREZ
 
-# Solicitud
-Se requiere revisar mensaje de error al insertar documentos en la tabla tractoventadec.
+Una entidad financiera es todo negocio que funcione como intermediario en el mercado financiero. El ejemplo más claro de estos son los bancos donde las personas naturales y jurídicas pueden salvaguardar su dinero, realizar compras de acciones, pedir distintos tipos de créditos, etc.
 
-# Análisis
-En revisión de archivos de logs se detecta que en este caso hubo perdida del código del financiador que se tomaba de la sesión, lo que derivo en un error en el SQL que inserta los registros en tabla tractoventadec
+Para este desafío, se deben analizar los datos proporcionados de una entidad financiera para saber el porqué está teniendo una tasa de fuga considerable y que acciones se deben tomar para que dicha tasa se reduzca.
 
-# Solución
-Se realizó cambio en la forma en que se obtiene el código del financiador, ahora se toma de la página y no de la sesión.
+Para la realización del proyecto, se utiliza el proceso KDD (Proceso de Descubrimiento del Conocimiento). Para realizar la selección, procesamiento, muestreo y transformación de datos, en una base de datos a la cual se aplicarán procesos de minería de datos, terminado esto se elegirá el mejor método de predicción y así lograr definir las políticas comerciales que ayuden a resolver el problema.
 
-# Información Técnica
-- [x] Instalación de código via Capistrano
-- [ ] Build and install via Jenkins
-- [ ] Configuración Puppet
-- [ ] Cambio de configuración manual/Crontab
-- [ ] Creación/Modificación de Tablas
-- [ ] Creación/Modificación procedimiento almacenado
+Como objetivo principal se debe desarrollar un modelo predictivo, con el cual se podrán identificar a los clientes con mayor riesgo de fuga, para así definir nuevas políticas comerciales que permitan retener a dichos clientes.
 
-# Roll Back
-Volver a la versión anterior.
+Para cumplir con lo anterior se realizará lo siguiente:
 
-# QA
-Se deben realizar pruebas de emisión de bonos con seguros configurado con los atributos de Salud para Todos y hacer pruebas de adjuntar documentos.
+-	Realizar la detección y corrección de incongruencias o errores en la base de datos.
+-	Generar indicadores a partir de los datos para encontrar nuevas variables para optimizar el desempeño predictivo.
+-	Crear un análisis descriptivo y gráfico de los datos.
+-	Construir modelos predictivos para encontrar la mejor solución al problema.
+ 
+La base de datos en estudio está representada de la siguiente manera:
