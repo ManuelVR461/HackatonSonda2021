@@ -65,4 +65,13 @@ Eliminamos las variables innecesarias y evaluamos los tipos de variables con las
 
 ![image](https://user-images.githubusercontent.com/40529168/139965526-ccbe53d1-d5df-4f1d-ba1f-2ef77983dcce.png)
 
+![h](https://user-images.githubusercontent.com/40529168/139965821-932970b7-be99-4632-8ce1-bcf1afa107fd.png)
+
+Detectamos las columnas categóricas para su posterior tratamiento.
+
+![image](https://user-images.githubusercontent.com/40529168/139965848-7f0cc1f9-9a27-4250-9183-6d9316e12bab.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139965863-949e2464-d1d1-470c-9d30-1802bb6d8018.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139965904-0da229d2-e6a0-4809-af2e-8a7827686400.png)
 
