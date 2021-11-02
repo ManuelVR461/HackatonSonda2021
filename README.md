@@ -125,7 +125,17 @@ A continuación se realiza el análisis de las variables con el test de Kolmogor
 
 ![image](https://user-images.githubusercontent.com/40529168/139967018-38dbdd1f-d37f-4ae0-ba5d-4daa42f8c704.png)
 
+![image](https://user-images.githubusercontent.com/40529168/139967195-2194cae1-6b8e-4caf-b0bc-3e70f6fa7443.png)
+
 ![image](https://user-images.githubusercontent.com/40529168/139967122-0a9c5940-e1f6-4bb6-880c-125b575b9121.png)
 
-![image](https://user-images.githubusercontent.com/40529168/139967195-2194cae1-6b8e-4caf-b0bc-3e70f6fa7443.png)
+![image](https://user-images.githubusercontent.com/40529168/139967386-d015e51b-86ae-48e4-9781-7313f8c9f603.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139967401-430e02e1-ffdf-49d1-a6f9-e03db0dabfd2.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139967453-9136f447-edac-4b55-8fea-b23025a08cb8.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139967463-422d48d0-6173-4797-b03a-fa64852af5b4.png)
+
+
 
