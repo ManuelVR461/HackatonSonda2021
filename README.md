@@ -25,4 +25,6 @@ Para cumplir con lo anterior se realizará lo siguiente:
 La base de datos en estudio está representada de la siguiente manera:
 
 |Variable|Descripción|Tipo de dato|
+|--------|------------------|-------------|
 |ID|Identificador del cliente|Entero|
+
