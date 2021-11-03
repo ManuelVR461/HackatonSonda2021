@@ -329,3 +329,74 @@ El siguiente paso es utilizar estos datos y someterlos al modelo Ramdom Forest, 
 
 ![image](https://user-images.githubusercontent.com/40529168/139970782-96aa7bef-5a35-47f7-8a2f-ebf2af55e661.png)
 
+Como se puede apreciar en los gráficos anteriores, la mayor cantidad de clientes que tiende a fugarse se localiza en Santiago, debido a que en dicha ciudad se localiza la mayoría de los clientes registrados, con un total de 260 posibles clientes con riesgo de fuga.
+
+![image](https://user-images.githubusercontent.com/40529168/139970835-6b64f6bf-64af-4a8b-9139-282ac5381cbe.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970850-1fa03dd4-d2e0-4acf-bc33-9fbd19185b30.png)
+
+Los clientes con estudios universitarios tienen mayor tendencia a la fuga, esto se puede apreciar en el gráfico donde se demuestra que aproximadamente el 82% de los clientes potencialmente en fuga cursaron una carrera universitaria.
+
+![image](https://user-images.githubusercontent.com/40529168/139970895-d6316714-d9e8-4ff1-b904-72cb4ed98672.png)
+
+Se determinó que los clientes casados son más propensos a darse a la fuga, al igual que los hombres.
+
+![image](https://user-images.githubusercontent.com/40529168/139970926-46076a4d-e9ee-4e67-a7fb-ee258313c52b.png)
+
+El seguro de desgravamen no tiene alto grado de influencia ya que se puede observar que la mayoría de los clientes con tendencia a fugarse no poseen dicho seguro.
+
+![image](https://user-images.githubusercontent.com/40529168/139970967-bb09fe3d-b6f6-48e7-8b1f-315e747837a9.png)
+
+La concentración de clientes con tendencia a fugarse es aquellos con un rango de edad entre 40 y 55 años que posean una deuda acumulada entre los meses de marzo y septiembre.
+
+
+## POLITICAS COMERCIALES Y CONCLUSIONES
+
+Los clientes tienen expectativas distintas y aprecian diversas características de las entidades financieras. En definitiva, lo importante es que se quiere sentir “único" y que pertenece a un pequeño grupo de amigos, pero cuando se siente traicionado (por un mal servicio) o bien encuentra que el grupo de amigos de al lado es más entretenido, entonces quiere probar y/o cambiarse.
+
+Entonces, ¿qué se puede ofrecer?, ¿una experiencia única, exclusiva y distinta a la de los demás?, si no queremos que se fugue a otro banco se podría ofrecer lo siguiente:
+
+Para las rentas altas, donde el foco es la exclusividad:
+-	Productos de inversiones exclusivos.
+-	Sitio privado internet diferenciado.
+-	Ofertas personalizadas.
+-	Tasas preferenciales.
+-	Informativos económicos.
+-	Invitaciones torneo golf, galas, espectáculos, eventos deportivos, etc.
+-	Regalo de fin de año.
+-	Regalo de cumpleaños y saludo telefónico.
+
+
+Para Rentas Medias, donde el foco es el conocimiento del cliente:
+-	Ofertas personalizadas.
+-	Beneficios en Tarjeta de Crédito.
+-	Tasas preferenciales.
+-	Invitaciones a eventos masivos y/o descuentos.
+-	Llamado telefónico y e-mail de saludo de cumpleaños.
+
+
+Para Rentas Bajas, donde el foco es el acceso con descuentos:
+-	Ofertas personalizadas.
+-	Beneficios en Tarjeta de Crédito.
+-	Beneficios Banca Joven.
+-	Tasas Competitivas.
+-	Invitaciones a eventos masivos y/o descuentos.
+-	Felicitaciones mediante e-mail en cumpleaños, fiestas navideñas y fin de año
+
+
+Propuestas para la generalidad:
+-	Ofrecer seguros de todo tipo (de vida con ahorros, salud, vehículo y hogar).
+-	A los clientes casados se deben ofrecer seguros donde se integre a la familia, como seguros de estudio.
+-	Descuentos en compras con Tarjetas de Crédito.
+-	Convenios exclusivos con tiendas comerciales utilizando los productos del banco.
+-	Oferta de productos VIP a precios preferenciales, con exención y/o prorroga de cuotas.
+-	Cambios de ejecutivo y sucursal.
+-	Mejora en los tiempos de respuesta a los requerimientos de los clientes.
+-	Mejoras en los servicios con el uso de las nuevas tecnologías (banca móvil, aplicaciones, entre otras).
+-	Refundir deudas.
+-	Premiar la fidelidad.
+-	Premiar la referencia a nuevos clientes.
+
+Como se pudo apreciar durante la realización de este proyecto, es importante realizar este tipo de proyecciones, el cual no es solo aplicable para este tipo de empresa, sino también a empresas de servicios como los retails, grandes cadenas de supermercados y empresas de gran envergadura como Sonda.
+
+El estudio arroja que los individuos que potencialmente tenderían a fugarse son hombres casados, con estudios universitarios y que no son muy asiduos a los seguros, para lo que se debe de crear una serie de medidas como las planteadas anteriormente.
