@@ -137,5 +137,59 @@ A continuación se realiza el análisis de las variables con el test de Kolmogor
 
 ![image](https://user-images.githubusercontent.com/40529168/139967463-422d48d0-6173-4797-b03a-fa64852af5b4.png)
 
+![image](https://user-images.githubusercontent.com/40529168/139968987-5883472d-5e8f-4cac-af6e-be40c5860d7b.png)
+
+La base de datos sin las columnas descartadas se puede ver a continuación:
+
+![image](https://user-images.githubusercontent.com/40529168/139969041-8f81f2b5-e1b5-45bd-9296-bf3dfcbb02e3.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969090-e92f7676-1838-4e45-ac57-4dd3919cc453.png)
+
+Dentro de las variables categóricas, existen tres de ellas a las cuales se aplicará un tratamiento especial para agrupar la cantidad existente y así minimizar los sesgos por dispersión que pudieran existir; estás variables son CIUDAD, COD_COM y COD_OFIC.
+
+![image](https://user-images.githubusercontent.com/40529168/139969123-909ec503-67d0-46c4-b608-f28f116adc73.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969145-1e199eb2-17f5-4fed-9837-b4744e143f7b.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969181-ffb77746-9dce-49b8-a797-db596680966d.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969206-8e546528-a726-470d-b41c-60bf9ad75132.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969223-6818975f-39e6-4632-adc2-30426d2cfebf.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969241-517e70eb-10a2-42e1-b56d-df0e3e14fe57.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969256-d7f433e5-d12f-40c3-9e14-294db1b32e78.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969321-fdcb2ccb-54ab-4546-9b50-121f79ab6a4d.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969350-84733846-ad73-4645-baa1-aa110ff5b129.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969384-19e724a6-b060-4d29-be5e-b4a6cda88af1.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969412-f2ee7d32-a78e-4346-a49c-77d5609f9438.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969449-66074329-bf00-45cc-9f81-4b8581685606.png)
+
+Al revisar los gráficos, nuestras primeras impresiones sobre los clientes que tienden a fugarse:
+-	Poseen estudios universitarios.
+-	Son casados.
+-	Son hombres.
+-	No tienen seguro de desgravamen.
+
+En cambio, los más fieles (no se fugan):
+-	Poseen estudios técnicos.
+-	Son solteros o viudos.
+-	Son mujeres.
+
+![image](https://user-images.githubusercontent.com/40529168/139969484-90cfa59b-f77d-4eba-a5a3-a23dc9bae1f7.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969503-f81407f0-51c4-4013-a6c8-4e9fe15308ae.png)
+
+Al realizar la impresión de un gráfico de dispersión, la librería (Pandas) gráfica primero los datos de los clientes Fugados (rojo) para luego sobreponer los datos de los clientes No Fugados (verde), por tanto, para entender mejor la idea se disponen ambos gráficos donde el segundo muestra la impresión invertida.
+
+![image](https://user-images.githubusercontent.com/40529168/139969578-00130538-ea70-4ad4-b8e3-0536d18c1783.png)
+
+
 
 
