@@ -190,6 +190,142 @@ Al realizar la impresión de un gráfico de dispersión, la librería (Pandas) g
 
 ![image](https://user-images.githubusercontent.com/40529168/139969578-00130538-ea70-4ad4-b8e3-0536d18c1783.png)
 
+![image](https://user-images.githubusercontent.com/40529168/139969648-bcfd669e-5e60-4bb4-a74a-67de5f85cfc1.png)
+
+Según el mapa de correlación de la base de datos, todas las variables se pueden considerar para el entrenamiento, ya que ninguna explica otra.
+
+Luego de culminada la limpieza de los datos, procedemos a realizar el escalamiento de estos para normalizarlos en una distribución entre cero (0) y uno (1).
+
+![image](https://user-images.githubusercontent.com/40529168/139969685-2db718e5-70de-432c-b6a5-d757b5bf8517.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969727-671d80cb-4a7b-4b4e-a662-2a81f6d16ea3.png)
 
 
+## MINERÍA DE DATOS
+
+Comenzamos realizando el proceso de entrenamiento donde tomaremos 80% de los registros y los dividimos en una validación cruzada de 4 partes, mientras el 20% restante lo tomamos para el test final del entrenamiento.
+
+![image](https://user-images.githubusercontent.com/40529168/139969752-6df37f03-35e7-4324-aaeb-1f4025c99987.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969806-307f13dd-1121-4909-8967-717ab7f2a4d5.png)
+
+Para el siguiente paso hemos seleccionado los modelos de machine learning que vamos a aplicar:
+
+-	K vecinos más cercanos (KNN)
+-	Árbol de decisión (TREE)
+-	Regresión logística (LOG)
+-	Máquina de vectores de soporte (SVC)
+-	Gaussian Naive Bayes (NBC)
+-	Gradiente descenso estocástico (SGD)
+-	Clasificador Ramdom Forest (RF)
+-	Red neuronal (RNN)
+
+# ***K Vecinos más cercanos (KNN)***
+
+![image](https://user-images.githubusercontent.com/40529168/139969865-b299b84b-5013-4b99-aaf1-a684b981ba94.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969893-4e7dedc3-2821-4a32-a15a-fd44241d20b8.png)
+
+
+# ***Árbol de decisión (TREE)***
+
+![image](https://user-images.githubusercontent.com/40529168/139969932-8c125f05-761f-4da6-97ad-32f5e2df92ba.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139969965-f11767be-9dc8-4eaf-8366-3f5f27b8f7ee.png)
+
+
+# ***Regresión logística (LOG)***
+
+![image](https://user-images.githubusercontent.com/40529168/139970004-0ca71f06-359b-42f5-b788-134c728445f6.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970034-d51941ce-a536-41b5-9206-d6c72b5b0cf1.png)
+
+
+# ***Máquina de vectores de soporte (SVC)***
+
+![image](https://user-images.githubusercontent.com/40529168/139970071-f8af05d4-4430-4531-bcbf-9a26138c3a23.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970088-88e0edd8-8893-4f4d-b021-96e483f91229.png)
+
+
+# ***Gaussian Naive Bayes (NBC)***
+
+![image](https://user-images.githubusercontent.com/40529168/139970110-8bc0212d-550a-4208-a05c-a793f66adda7.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970127-b8835671-d0d9-45d8-866c-c33fc99bbd80.png)
+
+
+# ***Gradiente descenso estocástico (SGD)***
+
+![image](https://user-images.githubusercontent.com/40529168/139970161-a086b620-1bd9-482e-99fa-89b3f4b7f948.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970185-96660889-9093-435d-900d-d7e040a1c08c.png)
+
+
+# ***Clasificador Ramdom Forest (RF)***
+
+![image](https://user-images.githubusercontent.com/40529168/139970205-8d3fdd67-cbd3-4192-b4dd-6f9b8ed4cf65.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970235-79815b8a-3c04-42fb-8ebc-3b15e8145ad0.png)
+
+
+# ***Red neuronal (RNN)***
+
+![image](https://user-images.githubusercontent.com/40529168/139970264-080dda29-d500-4e41-ac36-214aa199fa72.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970298-afc70c0a-fdde-47ad-b2d5-9083f836dab9.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970313-00db8f48-de8d-4f13-999a-3370702b9353.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970334-3f89e912-556c-45cd-9547-975641d73290.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970347-0590843c-a751-4f16-8277-ea2f8c0c222a.png)
+
+
+Luego de analizar los distintos métodos, verificamos la curva ROC:
+
+![image](https://user-images.githubusercontent.com/40529168/139970377-8f55fc64-0153-4d6c-8d6c-971c00afd6d6.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970398-c5d0fadc-25f3-47f0-bd4f-2b5a182001d4.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970425-a9b47474-2f32-4b87-9032-a1aed97ac5d6.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970451-1d1e392d-4510-43de-a7d7-d7c584282374.png)
+
+
+
+## INTERPRETACIÓN Y EVALUACIÓN
+
+Luego de haber seleccionado un modelo con los datos de entrenamiento, se realizan los mismos pasos de limpieza y escalamiento para los datos de evaluación hasta tener el mismo esquema de datainput necesaria para los modelos.
+
+![image](https://user-images.githubusercontent.com/40529168/139970482-2b1f506c-2d13-4a25-a072-570a3a3c686b.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970501-52ed2daf-4dde-4abb-a2db-b046b202ab6b.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970513-4c00fa50-4901-4c51-ab62-9a9431d64530.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970530-d56a5f5b-4313-4e76-b785-27aa1391d230.png)
+
+
+Se realiza el mismo proceso de limpieza y conversión de variables que se utilizó para el entrenamiento.
+
+El siguiente paso es utilizar estos datos y someterlos al modelo Ramdom Forest, ya que este fue el cual nos dio un mejor resultado.
+
+![image](https://user-images.githubusercontent.com/40529168/139970567-b4772299-be49-4044-a6fe-5c901d6d9f73.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970599-7dea5260-c6a8-469f-b624-1bcbb28442cf.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970631-90ad5f57-1913-4f4f-a153-0a8bb8f5ff59.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970648-a12f39a4-608f-46fa-b683-93056fd084a1.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970661-9ffccb0d-781c-4f15-86ac-02d27357e86a.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970708-21f78d56-48b7-4b73-b3a8-f47e6c79479d.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970730-918ba0d5-da15-4376-b394-ae7b018a482e.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970758-a8ad7ef8-5fc6-4eec-947a-30cdfed5f48c.png)
+
+![image](https://user-images.githubusercontent.com/40529168/139970782-96aa7bef-5a35-47f7-8a2f-ebf2af55e661.png)
 
